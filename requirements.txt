@@ -1,0 +1,11 @@
+streamlit==1.18.1
+pillow==9.2.0
+pandas==1.4.4
+numpy==1.21.5
+matplotlib==3.5.2
+japanize_matplotlib
+openpyxl==3.0.10
+
+
+
+
